@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Collaborative_Filtering_project.iml" filepath="$PROJECT_DIR$/.idea/Collaborative_Filtering_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imdbpy/.idea/imdbpy.iml" filepath="$PROJECT_DIR$/../imdbpy/.idea/imdbpy.iml" />
     </modules>
   </component>
 </project>
